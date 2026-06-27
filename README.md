@@ -19,7 +19,7 @@ PRIVACY-FIRST DESIGN:
 - GDPR-compliant data handling (data never leaves device)
 - No telemetry, analytics, or third-party scripts
 
-FEATURES (PRIORITIZED):
+FEATURES :
 - Audio Entrainment Engine (ISO + BIN + PURE) - client-side generation only
 - Multi-Layer Parallax Visualizer - webGL/Canvas based
 - Keeper's Companion (interactive journal, sketching, breath coaching)
